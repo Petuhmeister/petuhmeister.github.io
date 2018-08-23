@@ -5,4 +5,3 @@ Field name:
 ---
 
 ![15203469621840.jpg](/uploads/15203469621840.jpg)
-https://t.me/petuhmeister
