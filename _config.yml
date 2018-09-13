@@ -1,6 +1,6 @@
 ---
-title: Котик :3
-timezone: UTC
+title: petuhmeister
+timezone: Europe/Moscow
 collections:
   posts:
     title: Posts
@@ -21,3 +21,4 @@ defaults:
   values:
     layout: page
 permalink: pretty
+theme: jekyll-theme-cayman
